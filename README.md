@@ -1,4 +1,9 @@
+<div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<div>
+
 ### Hi there!!! 👋
+
 
 <!--
 **Beepsheep89/Beepsheep89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +28,7 @@ My Skills:
 <div>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 My Programs: 
 <div align= "centre">
