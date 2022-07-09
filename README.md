@@ -52,7 +52,7 @@ My Programs:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beepsheep89&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Beepsheep89's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Beepsheep89/github-readme-stats)
 
 ### :fire: My stats:
 
