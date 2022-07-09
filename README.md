@@ -20,8 +20,9 @@ You can ask me about some basic Discord.js features and anything discord bot rel
 Fun fact: I did use the scaffold from github!!!
 
 My Skills:
+<div>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<div>
 My Programs: 
 <div align= "centre">
 <div>
