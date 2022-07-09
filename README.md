@@ -5,7 +5,9 @@
 ### Hi there!!! 👋
 
 <div id="header" align="centre">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Beepsheep89;Javascript+Coder;Massive+Yoshi+Enthusiast;Atom+Vs.+VSC%3F%3F%3F)](https://git.io/typing-svg)
+
 </div>
 
 
