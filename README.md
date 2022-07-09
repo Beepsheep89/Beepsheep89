@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!!! 👋
 
 <!--
 **Beepsheep89/Beepsheep89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Name's Max, But on the internet, I'm known as Beep! I'm a casual coder who is currently making a discord bot called Beep (pretty original name, I know!). I'm currently learning everything I can about discord.js and Javascript! I'm happy to collaborate on some discored music bots, as I have made one, and some general discord chat bot commands!
+You can ask me about some basic DIscord.js features and anything discord bot related, but i'm definitely not the best person to ask. RIght now I'm unreachable, but hopefully that'll change soon! I go by he/him pronouns!
+Fun fact: I did use the scaffold from github!!!
 
 My Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
