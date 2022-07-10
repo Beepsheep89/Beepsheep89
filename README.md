@@ -54,6 +54,7 @@ My Programs:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beepsheep89)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fire: My stats:
+### :fire: My Trophies:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beepsheep89&hide=contribs,prs)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
