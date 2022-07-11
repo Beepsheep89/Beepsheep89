@@ -47,6 +47,8 @@ My Programs:
 
 My Social Media! 🤓
 
+                        Discord: @Beep:hippopotamus: #5410.
+                        Github: Beepsheep89 (Obviously).
 
 
 ### :fire: My Stats :
