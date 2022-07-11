@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 ### My Name's Max, But on the internet, I'm known as Beep! I'm a casual coder who is currently making a discord bot called Beep (pretty original name, I know!). I'm currently learning everything I can about discord.js and Javascript! I'm happy to collaborate on some discord music bots, as I have made one, and some general discord chat bot commands!
-You can ask me about some basic Discord.js features and anything discord bot related, but i'm definitely not the best person to ask. You can contact me on my discord, @Beep(hippo emoji)#5104! I go by he/him pronouns!
+You can ask me about some basic Discord.js features and anything discord bot related, but i'm definitely not the best person to ask. You can contact me on my discord, @Beep:hippopotamus:#5410! I go by he/him pronouns!
 Fun fact: I did use the scaffold from github!!!
 <div>
 My Skills:
