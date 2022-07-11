@@ -35,6 +35,7 @@ My Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<img src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 My Programs:
 <div align= "centre">
@@ -68,8 +69,6 @@ My Education :book:!
   
 ### :hippopotamus: My Languages:
   <div align= "centre">
-  
-<img src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beepsheep89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
