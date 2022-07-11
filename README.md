@@ -50,6 +50,12 @@ My Social Media! 🤓
 Discord: @Beep:hippopotamus: #5410.
 Github: Beepsheep89 (Obviously).
 
+My Education :book:!
+<div align ="centre">
+
+https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347
+
+</div>
 
 ### :fire: My Stats :
 
